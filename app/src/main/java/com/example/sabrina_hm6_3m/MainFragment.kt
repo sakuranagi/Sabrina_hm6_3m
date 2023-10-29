@@ -47,7 +47,7 @@ class MainFragment : Fragment() {
         animeList.add(AnimeModel("https://m.media-amazon.com/images/I/813q45sQSCL._AC_UF1000,1000_QL80_.jpg","Pokemon","1257 Episodes"))
         animeList.add(AnimeModel("https://m.media-amazon.com/images/I/91oRmZ53OBL.jpg","Assassination Classroom","24 Episodes"))
         animeList.add(AnimeModel("https://m.media-amazon.com/images/I/61+D4zBEigL._AC_UF894,1000_QL80_.jpg","Bakugan","189 Episodes"))
-        animeList.add(AnimeModel("https://upload.wikimedia.org/wikipedia/ru/7/7f/Suzume_no_Tojimari_poster.jpg","Suzume",))
+        animeList.add(AnimeModel("https://upload.wikimedia.org/wikipedia/ru/7/7f/Suzume_no_Tojimari_poster.jpg","Suzume"))
 
     }
 }
